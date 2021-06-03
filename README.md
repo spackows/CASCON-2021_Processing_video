@@ -6,7 +6,8 @@ A collection of sample Node.js code and Python notebooks that demonstrate method
 to Streamline Business Processes and Improve Customer Experience
 
 Sarah Packowski ( spackows@ca.ibm.com )<br/>
-Rashmi Kulkarni ( rashmi.kulkarni@ibm.com ) 
+Rashmi Kulkarni ( rashmi.kulkarni@ibm.com )<br/>
+Sharyn Richard ( sharyn.richard@us.ibm.com )
 
 <p>&nbsp;</p>
 
