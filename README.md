@@ -1,8 +1,6 @@
 # Samples for CASCON 2021
 
-A collection of sample Node.js code and Python notebooks that demonstrate methods described in the following paper:
-
-**Using IBM Watson Cloud Services to Process Video**<br/>
+**Using IBM Watson Services to Process Video**<br/>
 to Streamline Business Processes and Improve Customer Experience
 
 Sarah Packowski ( spackows@ca.ibm.com )<br/>
@@ -11,6 +9,12 @@ Sharyn Richard ( sharyn.richard@us.ibm.com )<br/>
 Gary Faircloth ( gfaircl@us.ibm.com )
 
 <p>&nbsp;</p>
+
+
+*Note that the list below is tentative at this time* 
+
+<p>&nbsp;</p>
+
 
 ## Managing videos
 <table>
@@ -33,6 +37,22 @@ Gary Faircloth ( gfaircl@us.ibm.com )
 </table>
 
 <p>&nbsp;</p>
+
+
+## Model managment
+<table>
+<tr>
+<th>Sample</th>
+<th>Description</th>
+</tr>
+<tr>
+<td valign="top">Customizing Speech to Text model</td>
+<td valign="top">Node.js web service to generate a words list for customizing Watson Speech to Text</td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
 
 ## Processing transcripts
 <table>
@@ -67,6 +87,7 @@ Gary Faircloth ( gfaircl@us.ibm.com )
 </table>
 
 <p>&nbsp;</p>
+
 
 ## Searching transcripts
 <table>
