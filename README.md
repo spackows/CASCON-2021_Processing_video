@@ -7,7 +7,8 @@ to Streamline Business Processes and Improve Customer Experience
 
 Sarah Packowski ( spackows@ca.ibm.com )<br/>
 Rashmi Kulkarni ( rashmi.kulkarni@ibm.com )<br/>
-Sharyn Richard ( sharyn.richard@us.ibm.com )
+Sharyn Richard ( sharyn.richard@us.ibm.com )<br/>
+Gary Faircloth ( gfaircl@us.ibm.com )
 
 <p>&nbsp;</p>
 
@@ -57,7 +58,11 @@ Sharyn Richard ( sharyn.richard@us.ibm.com )
 </tr>
 <tr>
 <td valign="top">Identifying questions</td>
-<td valign="top">Python notebook using Watson Natural Language Classifier</td>
+<td valign="top">Python notebook identifying questions in a meeting transcript</td>
+</tr>
+<tr>
+<td valign="top">Identifying follow-up items</td>
+<td valign="top">Python notebook identifying follow-up items in a meeting transcript</td>
 </tr>
 </table>
 
