@@ -1,4 +1,4 @@
-# Samples for CASCON 2021
+# CASCON 2021 Paper
 
 **Using IBM Watson Services to Process Video**<br/>
 to Streamline Business Processes and Improve Customer Experience
