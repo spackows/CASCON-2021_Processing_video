@@ -42,6 +42,10 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 
 **Link:** [Extract-audio-from-video.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Extract-audio-from-video.ipynb)
 
+This Python notebook demonstrates how to use [`ffmpeg-python`](https://github.com/kkroening/ffmpeg-python) to extract audio (.mp3) from a video (.mp4) file.  
+
+The video is a [sample meeting recording](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting.mp4?raw=true) where a team discusses favorite animals.
+
 <img src="images/notebook-1.png" alt="Sample notebook" width="600"/>
 
 <p>&nbsp;</p>
@@ -50,6 +54,10 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 ### Sample 2: Send audio to Watson Speech to Text
 
 **Link:** [Run-Watson-Speech-to-Text.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Run-Watson-Speech-to-Text.ipynb)
+
+This Python notebook demonstrates using the [Watson Speech to Text API](https://cloud.ibm.com/apidocs/speech-to-text?code=python) to send audio for processing.  
+
+The [sample audio](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting.mp3?raw=true) is from a meeting recording where a team discusses favorite animals.
 
 <img src="images/notebook-2.png" alt="Sample notebook" width="600"/>
 
@@ -60,6 +68,12 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 
 **Link:** [Add-punctuation-and-split-into-sentence.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Add-punctuation-and-split-into-sentence.ipynb)
 
+This Python notebook demonstrates using the Python library [`punctuator`](https://pypi.org/project/punctuator/) to add punctuation and capitalization to the [Speech to Text output](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting.txt) of a meeting recording where a team discusses favorite animals.
+
+A pretrained model, created by [Ottokar Tilk](https://ee.linkedin.com/in/ottokar-tilk), is used.  See: [Paper: Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration](https://www.isca-speech.org/archive/pdfs/interspeech_2016/tilk16_interspeech.pdf)
+
+The notebook also demonstrates using the [Natural Language Toolkit](https://www.nltk.org) to break the punctuated transcript into an array of sentences.
+
 <img src="images/notebook-3.png" alt="Sample notebook" width="600"/>
 
 <p>&nbsp;</p>
@@ -69,6 +83,10 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 
 **Link:** [Get-sentence-timestamps.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Get-sentence-timestamps.ipynb)
 
+This Python notebook demonstrates using the [word timestamps](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting_words.json) from Watson Speech to Text to find the timestamp of the beginning of each sentence in the transcript.
+
+The [sample transcript sentences array](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting_sentences_arr.json) is from a meeting recording where a team discusses favorite animals.
+
 <img src="images/notebook-4.png" alt="Sample notebook" width="600"/>
 
 <p>&nbsp;</p>
@@ -77,6 +95,12 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 ### Sample 5: Create diffs for retraining speech to text model
 
 **Link:** [Create-diffs-to-retrain-STT-model.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Create-diffs-to-retrain-STT-model.ipynb)
+
+This Python notebook demonstrates using the Python library [`difflib`](https://docs.python.org/3/library/difflib.html) to compare [Speech to Text results](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting.txt) with a [manually corrected transcript](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting_corrected.txt).
+
+The notebook also demonstrates how to generate baseline custom words dictionaries for customizing your Watson Speech to Text language model.  See: [Creating a custom language model](https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-languageCreate)
+
+The transcripts are from a Watson Studio product video.  This video contains domain-specific, technical jargon.  Customizing our Watson Speech to Text model for these domain-specific, technical terms improved speech to text results dramatically.
 
 <img src="images/notebook-5.png" alt="Sample notebook" width="600"/>
 
