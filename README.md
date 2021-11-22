@@ -27,13 +27,13 @@ This repo contains samples and supporting information for a paper presentation a
 ## [Samples]
 
 Here are collection of Python notebooks that demonstrate the tasks described in the paper:
-- [Sample 1: Extract audio from video](#sample-1-warm-up-activity)
-- [Sample 2: Send audio to Watson Speech to Text](#sample-2-empathy-exercise)
-- [Sample 3: Add punctuation to speech to text transcript](#sample-3-interview-email)
-- [Sample 4: Get sentence timestamps](#sample-4-meeting-analysis)
-- [Sample 5: Create diffs for retraining speech to text model](#sample-4-meeting-analysis)
-- [Sample 6: Find themes in meeting transcript](#sample-4-meeting-analysis)
-- [Sample 7: Translate audio of product videos](#sample-4-meeting-analysis)
+- [Sample 1: Extract audio from video](#sample-1-extract-audio-from-video)
+- [Sample 2: Send audio to Watson Speech to Text](#sample-2-send-audio-to-watson-speech-to-text)
+- [Sample 3: Add punctuation to speech to text transcript](#sample-3-add-punctuation-to-speech-to-text-transcript)
+- [Sample 4: Get sentence timestamps](#sample-4-get-sentence-timestamps)
+- [Sample 5: Create diffs for retraining speech to text model](#sample-5-create-diffs-for-retraining-speech-to-text-model)
+- [Sample 6: Find themes in meeting transcript](#sample-6-find-themes-in-meeting-transcript)
+- [Sample 7: Translate audio of product videos](#sample-7-translate-audio-of-product-videos)
 
 <p>&nbsp;</p>
 
