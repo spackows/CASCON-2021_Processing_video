@@ -15,17 +15,80 @@ This repo contains samples and supporting information for a paper presentation a
 <p>&nbsp;</p>
 
 
-## Samples
-<table>
-<tr>
-<th>Sample</th>
-<th>Description</th>
-</tr>
-<tr>
-<td valign="top">&nbsp;</td>
-<td valign="top">&nbsp;</td>
-</tr>
-</table>
+## [Paper]
+
+**Link:** [Using_IBM_Watson_to_Process_Video.pdf](Using_IBM_Watson_to_Process_Video.pdf)
+
+<img src="images/paper-front-page.png" alt="paper" width="500"/>
+
+<p>&nbsp;</p>
+
+
+## [Samples]
+
+Here are collection of Python notebooks that demonstrate the tasks described in the paper:
+- [Sample 1: Extract audio from video](#sample-1-warm-up-activity)
+- [Sample 2: Send audio to Watson Speech to Text](#sample-2-empathy-exercise)
+- [Sample 3: Add punctuation to speech to text transcript](#sample-3-interview-email)
+- [Sample 4: Get sentence timestamps](#sample-4-meeting-analysis)
+- [Sample 5: Create diffs for retraining speech to text model](#sample-4-meeting-analysis)
+- [Sample 6: Find themes in meeting transcript](#sample-4-meeting-analysis)
+- [Sample 7: Translate audio of product videos](#sample-4-meeting-analysis)
+
+<p>&nbsp;</p>
+
+
+### Sample 1: Extract audio from video
+
+**Link:** [Extract-audio-from-video.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Extract-audio-from-video.ipynb)
+
+<img src="images/notebook-1.png" alt="Sample notebook" width="600"/>
+
+<p>&nbsp;</p>
+
+
+### Sample 2: Send audio to Watson Speech to Text
+
+**Link:** [Run-Watson-Speech-to-Text.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Run-Watson-Speech-to-Text.ipynb)
+
+<img src="images/notebook-2.png" alt="Sample notebook" width="600"/>
+
+<p>&nbsp;</p>
+
+
+### Sample 3: Add punctuation to speech to text transcript
+
+**Link:** [Add-punctuation-and-split-into-sentence.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Add-punctuation-and-split-into-sentence.ipynb)
+
+<img src="images/notebook-3.png" alt="Sample notebook" width="600"/>
+
+<p>&nbsp;</p>
+
+
+### Sample 4: Get sentence timestamps
+
+**Link:** [Get-sentence-timestamps.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Get-sentence-timestamps.ipynb)
+
+<img src="images/notebook-4.png" alt="Sample notebook" width="600"/>
+
+<p>&nbsp;</p>
+
+
+### Sample 5: Create diffs for retraining speech to text model
+
+**Link:** [Create-diffs-to-retrain-STT-model.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Create-diffs-to-retrain-STT-model.ipynb)
+
+<img src="images/notebook-5.png" alt="Sample notebook" width="600"/>
+
+<p>&nbsp;</p>
+
+
+### Sample 6: Find themes in meeting transcript
+
+<p>&nbsp;</p>
+
+
+### Sample 7: Translate audio of product videos
 
 <p>&nbsp;</p>
 
