@@ -64,9 +64,6 @@ on the environment's tab you can define the hardware size and software configura
 00:03:06
 the jobs tab shows any scheduled active in previous jobs started from running an asset such as a notebook or data refinery flow from here you can view the details of each job and manage jobs 
 
-00:03:21
-the deployment stab will contain any models you've deployed for example machine learning models 
-
 00:03:28
 the access control tab lets you add and manage additional collaborators for your project 
 
