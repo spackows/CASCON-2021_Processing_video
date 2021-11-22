@@ -5,7 +5,7 @@ This video shows you how to create a Watson Studio project.
 From the home page, you can create a project. 
 
 00:00:08
-Projects are a way to organize resources for specific data science task or goal. 
+Projects are a way to organize resources for a specific data science task or goal. 
 
 00:00:14
 A project includes data, collaborators, notebooks, models and so on, all to support finding insights for a well-defined and fairly narrow goal: for example, how weather affects sales in the company's retail shops. 
