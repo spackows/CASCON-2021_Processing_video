@@ -96,7 +96,7 @@ The [sample transcript sentences array](https://github.com/spackows/CASCON-2021_
 
 **Link:** [Create-diffs-to-retrain-STT-model.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Create-diffs-to-retrain-STT-model.ipynb)
 
-This Python notebook demonstrates using the Python library [`difflib`](https://docs.python.org/3/library/difflib.html) to compare [Speech to Text results](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting.txt) with a [manually corrected transcript](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting_corrected.txt).
+This Python notebook demonstrates using the Python library [`difflib`](https://docs.python.org/3/library/difflib.html) to compare [Speech to Text results](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-product-video/product_video.txt) with a [manually corrected transcript](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-product-video/product_video_corrected.txt).
 
 The notebook also demonstrates how to generate baseline custom words dictionaries for customizing your Watson Speech to Text language model.  See: [Creating a custom language model](https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-languageCreate)
 
