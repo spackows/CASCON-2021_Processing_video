@@ -1,0 +1,111 @@
+00:00:00
+this video shows you how to create a Watson studio project 
+
+00:00:05
+from the home page you can create a project projects are way to organize resources for specific data science task or goal 
+
+00:00:14
+Rajit includes data collaborators notebooks models and SO one all to support finding insights for a well defined and fairly narrow goal for example how weather affects sales in the company's retail shops in this video you'll see how to create an empty project and imported project from a file into project based on a sample first to create an empty project 
+
+00:00:43
+just provide a name for the project and give it a description 
+
+00:00:47
+by default the project will be restricted in who can be added as a collaborator so you'll be able to invite anyone in your company or just members of your IBM cloud account depending on whether or not your company has salmon federation's set up 
+
+00:01:04
+this option also allows you to access assets from a catalog if you clear this restriction you will be able to invite anyone to collaborate on the project but you won't be able to access catalog assets this setting can't be changed later if you don't already have an IBM cloud object storage instance 
+
+00:01:26
+what do you want to create a new instance you'll be able to do that from here 
+
+00:01:32
+when you're ready click create 
+
+00:01:35
+so here's the new project you'll explore project a little later 
+
+00:01:40
+now let's go back to the home screen and create a project again this time select the option to create a project from a sample or file 
+
+00:01:53
+drag the file containing an exported Watson studio project here 
+
+00:02:00
+provide a name in the description 
+
+00:02:03
+thank read the project 
+
+00:02:06
+now Watson studio is creating the project space uploading and extracting the zip content and then transferring the files to the cloud object storage instance associated with this project 
+
+00:02:21
+when it's done you can either view the import summary or view the new project this is the project overview tab where you see basic information about the project including the description 
+
+00:02:35
+storage usage 
+
+00:02:37
+collaborators 
+
+00:02:39
+recent activity 
+
+00:02:41
+in a project read me 
+
+00:02:43
+on the assets tab you'll find all of the different types of assets you can add to a project such as data assets notebooks models flows and someone 
+
+00:02:55
+on the environment's tab you can define the hardware size and software configuration for the run time associated with Watson studio tools such as notebooks 
+
+00:03:06
+the jobs tab shows any scheduled active in previous jobs started from running an asset such as a notebook or data refinery flow from here you can view the details of each job and manage jobs 
+
+00:03:21
+the deployment stab will contain any models you've deployed for example machine learning models 
+
+00:03:28
+the access control tab lets you add and manage additional collaborators for your project 
+
+00:03:35
+on the settings tab you can edit the project name and description 
+
+00:03:40
+here you can see the storage used by the assets in this project 
+
+00:03:45
+and here's where you can associate additional services with this project such as spark machine learning streaming analytics dashboard or Watson services 
+
+00:03:56
+if you need a project access token to access files and connections using platform API's you can create one from here 
+
+00:04:05
+lastly you can connect this project to a get hub repository to be able to upload content to their or to your figure eight or define crowd account to create annotation jobs 
+
+00:04:19
+now let's go back to the home screen 
+
+00:04:22
+create a project again 
+
+00:04:24
+and select the option to create a project from a sample or file this time the project will be based on the sample hover over each sample to see a description in this case selected the predicted buying behavior with ML sample 
+
+00:04:42
+the project name and description are filled in for you so just click create 
+
+00:04:50
+when it's done view the new project 
+
+00:04:54
+on the assets tab you'll see the assets included with this sample project 
+
+00:05:01
+now you're ready to examine the sample assets and get started analyzing data 
+
+00:05:08
+find more videos in the cloud pack for data as a service documentation 
+
