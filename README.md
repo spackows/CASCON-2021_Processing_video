@@ -111,7 +111,7 @@ The transcripts are from a Watson Studio product video.  This video contains dom
 
 **Link:** [Translate-audio.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Translate-audio.ipynb)
 
-We generate our videos in English, embed video captions in our product documentation in HTML tables, and then send the HTML to be translated by (human) professional translators.
+We generate our videos in English, embed video captions in our product documentation (eg. in HTML tables), and then send the documentation to be translated by (human) professional translators.
 
 This Python notebook demonstrates reading [a sample HTML table](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-product-video/product_video_French.html) containing French video captions and then synthesizing audio for the captions using Watson Text to Speech.
 
@@ -122,11 +122,13 @@ This Python notebook demonstrates reading [a sample HTML table](https://github.c
 
 ### Sample 7: Find themes in meeting transcript
 
-**Link:** []()
+**Link:** [Find-themes-in-meeting.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Find-themes-in-meeting.ipynb)
 
-This Python notebook demonstrates extracting themese from each sentence in the favorite animals sample meeting using several methods:
+This Python notebook demonstrates extracting themes from each sentence in the [favorite animals sample meeting](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-meeting/favorite-animals-short-meeting_sentences_arr_corrected.json) using several methods:
 - Themes based on keywords or nouns extracted using the Watson Natural Language Understanding default model
-- Themes based on entities extracted using a custom language model, trained to recognize "Animals" and deployed in Watson Natural Language Understanding default model
+- Themes based on entities extracted using a custom language model, trained to recognize "Animal" entities and deployed in Watson Natural Language Understanding
+
+<img src="images/notebook-7.png" alt="Sample notebook" width="700"/>
 
 <p>&nbsp;</p>
 
