@@ -32,8 +32,8 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 - [Sample 3: Add punctuation to speech to text transcript](#sample-3-add-punctuation-to-speech-to-text-transcript)
 - [Sample 4: Get sentence timestamps](#sample-4-get-sentence-timestamps)
 - [Sample 5: Create diffs for retraining speech to text model](#sample-5-create-diffs-for-retraining-speech-to-text-model)
-- [Sample 6: Find themes in meeting transcript](#sample-6-find-themes-in-meeting-transcript)
-- [Sample 7: Translate audio of product videos](#sample-7-translate-audio-of-product-videos)
+- [Sample 6: Translate audio of product videos](#sample-7-translate-audio-of-product-videos)
+- [Sample 7: Find themes in meeting transcript](#sample-6-find-themes-in-meeting-transcript)
 
 <p>&nbsp;</p>
 
@@ -107,12 +107,21 @@ The transcripts are from a Watson Studio product video.  This video contains dom
 <p>&nbsp;</p>
 
 
-### Sample 6: Find themes in meeting transcript
+### Sample 6: Translate audio of product videos
+
+**Link:** [Translate-audio.ipynb](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/notebooks/Translate-audio.ipynb)
+
+We generate our videos in English, embed video captions in our product documentation in HTML tables, and then send the HTML to be translated by (human) professional translators.
+
+This Python notebook demonstrates reading [a sample HTML table](https://github.com/spackows/CASCON-2021_Processing_video/blob/main/sample-product-video/product_video_French.html) containing French video captions and then synthesizing audio for the captions using Watson Text to Speech.
+
+<img src="images/notebook-6.png" alt="Sample notebook" width="600"/>
 
 <p>&nbsp;</p>
 
 
-### Sample 7: Translate audio of product videos
+### Sample 7: Find themes in meeting transcript
 
 <p>&nbsp;</p>
+
 
