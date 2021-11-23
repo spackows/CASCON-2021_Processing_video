@@ -122,6 +122,12 @@ This Python notebook demonstrates reading [a sample HTML table](https://github.c
 
 ### Sample 7: Find themes in meeting transcript
 
+**Link:** []()
+
+This Python notebook demonstrates extracting themese from each sentence in the favorite animals sample meeting using several methods:
+- Themes based on keywords or nouns extracted using the Watson Natural Language Understanding default model
+- Themes based on entities extracted using a custom language model, trained to recognize "Animals" and deployed in Watson Natural Language Understanding default model
+
 <p>&nbsp;</p>
 
 
