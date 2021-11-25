@@ -24,6 +24,15 @@ This repo contains samples and supporting information for a paper presentation a
 <p>&nbsp;</p>
 
 
+## [Short presentation recordings]
+
+- [Project 1: Sarah Packowski](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/intro-and-project-1_Sarah-Packowski.mp4)
+- [Project 5: Gary Faircloth](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-5_Gary-Faircloth.mp4)
+- [Project 6: Sharyn Richard](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-6_Sharyn-Richard.mp4)
+
+<p>&nbsp;</p>
+
+
 ## [Samples]
 
 Here are collection of Python notebooks that demonstrate the tasks described in the paper:
