@@ -35,7 +35,7 @@ This repo contains samples and supporting information for a paper presentation a
 
 ## [Samples]
 
-Here are collection of Python notebooks that demonstrate the tasks described in the paper:
+Here is a collection of Python notebooks that demonstrate the tasks described in the paper:
 - [Sample 1: Extract audio from video](#sample-1-extract-audio-from-video)
 - [Sample 2: Send audio to Watson Speech to Text](#sample-2-send-audio-to-watson-speech-to-text)
 - [Sample 3: Add punctuation to speech to text transcript](#sample-3-add-punctuation-to-speech-to-text-transcript)
