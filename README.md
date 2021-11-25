@@ -41,8 +41,8 @@ Here are collection of Python notebooks that demonstrate the tasks described in 
 - [Sample 3: Add punctuation to speech to text transcript](#sample-3-add-punctuation-to-speech-to-text-transcript)
 - [Sample 4: Get sentence timestamps](#sample-4-get-sentence-timestamps)
 - [Sample 5: Create diffs for retraining speech to text model](#sample-5-create-diffs-for-retraining-speech-to-text-model)
-- [Sample 6: Translate audio of product videos](#sample-7-translate-audio-of-product-videos)
-- [Sample 7: Find themes in meeting transcript](#sample-6-find-themes-in-meeting-transcript)
+- [Sample 6: Translate audio of product videos](#sample-6-translate-audio-of-product-videos)
+- [Sample 7: Find themes in meeting transcript](#sample-7-find-themes-in-meeting-transcript)
 
 <p>&nbsp;</p>
 
