@@ -27,7 +27,8 @@ This repo contains samples and supporting information for a paper presentation a
 ## [Short presentation recordings]
 
 - [Project 1: Sarah Packowski](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/intro-and-project-1_Sarah-Packowski.mp4)
-- [Project 5: Gary Faircloth](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-5_Gary-Faircloth.mp4)
+- [Project 3: Rashmi Kulkarni](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-3_Rashmi-Kulkarni.mp4)
+- [Project 4-5: Gary Faircloth](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-5_Gary-Faircloth.mp4)
 - [Project 6: Sharyn Richard](https://raw.githubusercontent.com/spackows/CASCON-2021_Processing_video/main/presentation-recordings/project-6_Sharyn-Richard.mp4)
 
 <p>&nbsp;</p>
